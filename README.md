@@ -13,4 +13,14 @@ Addenda for my GameSoundCon 2021 Talk "Bringing Back the Soundchip"
 
 ### Audio Synthesis Libs
 
-* [puredata](https://puredata.info/)
+| lib                                                          | language                    |
+| ------------------------------------------------------------ | --------------------------- |
+| [puredata](https://puredata.info/)                           | C                           |
+| [Heavy](https://github.com/enzienaudio/hvcc)                 | C++                         |
+| [libfmsynth](https://github.com/Themaister/libfmsynth)       | C                           |
+| [Faust programming language](https://faust.grame.fr/)        | (is a programming language) |
+
+### Modern Games That Use Real-Time Synthesis
+
+* [Fract OSC](https://www.youtube.com/watch?v=evVSyA2IXsE)
+* [Zya and Song Battles](https://www.youtube.com/watch?v=aTsIfxDWNR8) (defunct)
