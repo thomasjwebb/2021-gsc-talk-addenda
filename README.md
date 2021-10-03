@@ -1,6 +1,6 @@
 # GameSoundCon 2021 Talk Addenda
 
-Addenda for my GameSoundCon 2021 Talk "Bringing Back the Soundchip". Slides will be available starting the day of the talk.
+Addenda for my [GameSoundCon](https://www.gamesoundcon.com) 2021 Talk "Bringing Back the Soundchip". Slides will be available starting the day of the talk.
 
 ## Links
 
