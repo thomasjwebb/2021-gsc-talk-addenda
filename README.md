@@ -13,12 +13,12 @@ Addenda for my GameSoundCon 2021 Talk "Bringing Back the Soundchip"
 
 ### Audio Synthesis Libs
 
-| lib                                                          | language                    |
-| ------------------------------------------------------------ | --------------------------- |
-| [puredata](https://puredata.info/)                           | C                           |
-| [Heavy](https://github.com/enzienaudio/hvcc)                 | C++                         |
-| [libfmsynth](https://github.com/Themaister/libfmsynth)       | C                           |
-| [Faust programming language](https://faust.grame.fr/)        | (is a programming language) |
+| lib                                                          | language    | techniques | 
+| ------------------------------------------------------------ | ----------- | ---------- |
+| [puredata](https://puredata.info/)                           | C           | any        |
+| [Heavy](https://github.com/enzienaudio/hvcc)                 | C++         | any        |
+| [libfmsynth](https://github.com/Themaister/libfmsynth)       | C           | fm         |
+| [TinySoundFont](https://github.com/schellingb/TinySoundFont) | C           | sample     |
 
 ### Modern Games That Use Real-Time Synthesis
 
