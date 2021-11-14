@@ -25,6 +25,7 @@ Slides available [here](slides.pdf).
 | [webaudio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) | js | various |
 | [pizzacato.js](https://alemangui.github.io/pizzicato/)       | js          | various     |
 | [The Synthesis Toolkit](https://ccrma.stanford.edu/software/stk/) | C++    | various     |
+| [Audiokit](https://audiokit.io/)                             | swift       | various     |
 
 ### Modern Games That Use Real-Time Synthesis
 
